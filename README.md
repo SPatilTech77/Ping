@@ -5,4 +5,3 @@
 5.Open this file and copy and paste the host list in the hosts text file. 
 6.go on Terminal and type  "python3 ping.py"
 6. you will see, it will start pining each host. and shows that, host is reachable or host is not reachable...!!
-
